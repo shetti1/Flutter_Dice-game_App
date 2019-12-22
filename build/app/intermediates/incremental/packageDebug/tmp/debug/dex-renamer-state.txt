@@ -1,0 +1,4 @@
+#Sat Dec 21 17:53:09 IST 2019
+base.0=/home/prashant/AndroidStudioProjects/dice_game/build/app/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
